@@ -8,9 +8,11 @@ Calculating summary statistics for the temperatures of both months will allow fo
 #### Determine the Summary Statistics for June
 In order to retrieve all the temperatures for the month of June, the date column of the Measurements table in the hawaii.sqlite database was filtered, using Python, Pandas functions and methods, and SQLAlchemy.
 Those temperatures were converted to a list,then a Dataframe was created from the list, which allowed me to generate the summary statistics.
+
 <img width="307" alt="JUNE" src="https://user-images.githubusercontent.com/110629852/215862214-4b07c2ec-7053-4750-8fe2-db4794acfc18.png">
 
 #### Determine the Summary Statistics for December
 In order to retrieve all the temperatures for the month of December, the date column of the Measurements table in the hawaii.sqlite database was filtered, using Python, Pandas functions and methods, and SQLAlchemy.
 Those temperatures were converted to a list,then a Dataframe was created from the list, which allowed me to generate the summary statistics.
+
 <img width="307" alt="dec" src="https://user-images.githubusercontent.com/110629852/215862857-34f47310-56a9-44ce-8496-46270cbe740e.png">
