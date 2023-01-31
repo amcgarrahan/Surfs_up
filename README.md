@@ -24,5 +24,5 @@ Those temperatures were converted to a list,then a Dataframe was created from th
   This represents a -.05 change in average temperature from June to December.
   The December temperatures seem to vary more than those in June given its wider range in  temperatures. Min vs Max. But still stays pretty close to the average temperature, meaning there isn't any outlier temperatures, hot or cold, skewing the data.
   
-  ####Summary
+  #### Summary
   After reviewing the data, December temperatures dont stray very far from the average temperature in June, making the temperatures in Oahu pretty consistent year round. The analysis suggests that an Ice Cream & Surf shop would be successfully all year despite what season it is. 
